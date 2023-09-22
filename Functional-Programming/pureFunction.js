@@ -2,7 +2,7 @@
 /* 
 * No Random Values
 * No current date/time
-* No global state (read or write)
+* Not rely on global state (read or write)
 * No change of parameters
 */
 

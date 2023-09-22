@@ -18,4 +18,4 @@ console.log(`Book1 Object: ${book1.title}`);// const just prevents reassigning
 * So in javaScript Arrays and Objects are mutable
 In pure functional programming language this would be different
 */
-// if (onj1 === obj2) react-redux
+// if (obj1 === obj2) react-redux
